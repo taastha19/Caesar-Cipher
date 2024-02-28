@@ -1,6 +1,6 @@
 # Encrypted Text (En(x)=(X + n) mod 26)     x-Letter
 # Decrypted Text (Dn(x)=(X - n) mod 26)     n-Shift Key
-# if Dn(x) is -ve, then add 26 to it.
+# if Dn(x) is -ve, add 26 to it.
 
 
 alphabets=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p',
